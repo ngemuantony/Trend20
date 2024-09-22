@@ -1,7 +1,7 @@
 ### Hello Visitor, I'm [Antony Ngemu]
 
 <p>  
-<a href="https://app.daily.dev/antonyngemu"><img src="https://github.com/Trend20/Trend20/blob/master/download.jpeg" width="400" alt="Ngemu Antony Dev Card"/></a>
+<a href="https://app.daily.dev/antonyngemu"><img src="https://github.com/ngemuantony/Trend20/blob/master/download.jpeg" width="400" alt="Ngemu Antony Dev Card"/></a>
 </p>
 
 <p>
