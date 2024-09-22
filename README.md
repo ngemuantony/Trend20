@@ -1,7 +1,7 @@
 ### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
 
 <p>  
-<a href="https://app.daily.dev/devenock"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
+<a href="https://app.daily.dev/antonyngemu"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Ngemu Antony Dev Card"/></a>
 </p>
 
 <p>
@@ -11,12 +11,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently building **OpenGet**.
-- 🌱 I’m currently learning DevOps.
-- 👯 I’m looking to collaborate on Javascript projects.
-- 🤔 I’m looking for help with **Golang**.
-- 💬 Ask me about Javascript, Typescript, React and NextJS.
-- 📫 How to reach me: enockomondi305@gmail.com
+- 🔭 I’m currently building **Load Balancer**.
+- 🌱 I’m currently learning Distributed Systems.
+- 👯 I’m looking to collaborate on Django projects.
+- 🤔 I’m looking for help with **Blockchain**.
+- 💬 Ask me about Python, Csharp, Databases and NodeJs.
+- 📫 How to reach me: muleiantony98@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love mentoring Beginners.
 
